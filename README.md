@@ -1,4 +1,4 @@
-<p align="center"><h9>🧠 ChatGPT-Prompts-Jailbreaks-And-More!</h1></p>
+<p align="center"><h0.1>🧠 ChatGPT-Prompts-Jailbreaks-And-More!</h1></p>
 
 Welcome to the "ChatGPT-Prompts-Jailbreaks-And-More" repository! This is a collection of prompt examples to be used with the ChatGPT-3 and ChatGPT-4 model.
 
